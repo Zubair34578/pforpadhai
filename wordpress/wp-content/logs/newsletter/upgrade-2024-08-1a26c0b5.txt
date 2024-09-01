@@ -1,0 +1,38 @@
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.0 MB/256 MB - admin > Start upgrade from 0.0.0
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_emails`] => Created table `edunewsletter_emails`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_sent`] => Created table `edunewsletter_sent`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.5 MB/256 MB - admin > Array
+(
+    [`edunewsletter`] => Created table `edunewsletter`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_user_logs`] => Created table `edunewsletter_user_logs`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_user_meta`] => Created table `edunewsletter_user_meta`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_stats`] => Created table `edunewsletter_stats`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.4 MB/256 MB - admin > Array
+(
+    [`edunewsletter_logs`] => Created table `edunewsletter_logs`
+)
+
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.5 MB/256 MB - admin > Backing up options of 0.0.0
+20-08-2024 11:27:01 - INFO  - 8.4.7 - 50.5 MB/256 MB - admin > End
